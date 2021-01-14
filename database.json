@@ -1,0 +1,502 @@
+[
+  {
+    "messageID": "795245695753781249",
+    "channelID": "794306226720210977",
+    "guildID": "794306226720210974",
+    "startAt": 1609671748804,
+    "endAt": 1609672348804,
+    "ended": true,
+    "winnerCount": "1",
+    "winners": [
+      "789415589407752193"
+    ],
+    "prize": "Nitro",
+    "messages": {
+      "giveaway": "🎉🎉 **GIVEAWAY** 🎉🎉",
+      "giveawayEnded": "🎉🎉 **GIVEAWAY ENDED** 🎉🎉",
+      "inviteToParticipate": "React with 🎉 to participate!",
+      "timeRemaining": "Time remaining: **{duration}**!",
+      "winMessage": "Congratulations, {winners}! You won **{prize}**!",
+      "embedFooter": "Giveaways",
+      "noWinner": "Giveaway cancelled, no valid participations.",
+      "winners": "winner(s)",
+      "endedAt": "Ended at",
+      "hostedBy": "Hosted by: {user}",
+      "units": {
+        "seconds": "seconds",
+        "minutes": "minutes",
+        "hours": "hours",
+        "days": "days",
+        "pluralS": false
+      }
+    },
+    "hostedBy": "<@760421959556792320>",
+    "winnerIDs": [
+      "789415589407752193"
+    ]
+  },
+  {
+    "messageID": "795252535631413298",
+    "channelID": "794306226720210977",
+    "guildID": "794306226720210974",
+    "startAt": 1609673379418,
+    "endAt": 1609673380418,
+    "ended": true,
+    "winnerCount": "1",
+    "winners": [],
+    "prize": "deneme",
+    "messages": {
+      "giveaway": "<:gw:795249081215746058> **GIVEAWAY** <:gw:795249081215746058>",
+      "giveawayEnded": "<:gw:795249081215746058> **GIVEAWAY ENDED** <:gw:795249081215746058>",
+      "inviteToParticipate": "React with 🎉 to enter!",
+      "timeRemaining": "Time remaining: **{duration}**!",
+      "winMessage": "Congratulations, {winners}! You won **{prize}**!",
+      "embedFooter": "Giveaways",
+      "noWinner": "Giveaway cancelled, no valid participations.",
+      "winners": "winner(s)",
+      "endedAt": "Ended at",
+      "hostedBy": "Hosted by: {user}",
+      "units": {
+        "seconds": "seconds",
+        "minutes": "minutes",
+        "hours": "hours",
+        "days": "days",
+        "pluralS": false
+      }
+    },
+    "hostedBy": "<@760421959556792320>",
+    "winnerIDs": []
+  },
+  {
+    "messageID": "795260501788459049",
+    "channelID": "795257291897045004",
+    "guildID": "794306226720210974",
+    "startAt": 1609675278660,
+    "endAt": 1609675320938,
+    "ended": true,
+    "winnerCount": "1",
+    "winners": [
+      "760421959556792320"
+    ],
+    "prize": "nitro",
+    "messages": {
+      "giveaway": "<:gw:795249081215746058> **GIVEAWAY** <:gw:795249081215746058>",
+      "giveawayEnded": "<:gw:795249081215746058> **GIVEAWAY ENDED** <:gw:795249081215746058>",
+      "inviteToParticipate": "React with 🎉 to enter!",
+      "timeRemaining": "Time remaining: **{duration}**!",
+      "winMessage": "<:gw:795249081215746058> Congratulations, {winners}! You won **{prize}**!",
+      "embedFooter": "Giveaways",
+      "noWinner": "Could not determine a winner!",
+      "winners": "winner(s)",
+      "endedAt": "Ended at",
+      "hostedBy": "Hosted by: {user}",
+      "units": {
+        "seconds": "seconds",
+        "minutes": "minutes",
+        "hours": "hours",
+        "days": "days",
+        "pluralS": false,
+        "weeks": "weeks"
+      }
+    },
+    "hostedBy": "<@760421959556792320>",
+    "winnerIDs": [
+      "760421959556792320"
+    ]
+  },
+  {
+    "messageID": "795260914609291284",
+    "channelID": "795257291897045004",
+    "guildID": "794306226720210974",
+    "startAt": 1609675377104,
+    "endAt": 1609675395165,
+    "ended": true,
+    "winnerCount": "1",
+    "winners": [
+      "760421959556792320"
+    ],
+    "prize": "nitro classic",
+    "messages": {
+      "giveaway": "<:gw:795249081215746058> **GIVEAWAY** <:gw:795249081215746058>",
+      "giveawayEnded": "<:gw:795249081215746058> **GIVEAWAY ENDED** <:gw:795249081215746058>",
+      "inviteToParticipate": "React with 🎉 to enter!",
+      "timeRemaining": "Time remaining: **{duration}**!",
+      "winMessage": "<:gw:795249081215746058> Congratulations, {winners}! You won **{prize}**!",
+      "embedFooter": "Giveaways",
+      "noWinner": "Could not determine a winner!",
+      "winners": "winner(s)",
+      "endedAt": "Ended at",
+      "hostedBy": "Hosted by: {user}",
+      "units": {
+        "seconds": "seconds",
+        "minutes": "minutes",
+        "hours": "hours",
+        "days": "days",
+        "pluralS": false,
+        "weeks": "weeks"
+      }
+    },
+    "hostedBy": "<@760421959556792320>",
+    "winnerIDs": [
+      "760421959556792320"
+    ]
+  },
+  {
+    "messageID": "795262555567947786",
+    "channelID": "795262395147878420",
+    "guildID": "794306226720210974",
+    "startAt": 1609675768448,
+    "endAt": 1609675808535,
+    "ended": true,
+    "winnerCount": "1",
+    "winners": [
+      "760421959556792320"
+    ],
+    "prize": "Nitro Classic",
+    "messages": {
+      "giveaway": "<:gw:795249081215746058> **GIVEAWAY** <:gw:795249081215746058>",
+      "giveawayEnded": "<:gw:795249081215746058> **GIVEAWAY ENDED** <:gw:795249081215746058>",
+      "inviteToParticipate": "React with 🎉 to enter!",
+      "timeRemaining": "Time remaining: **{duration}**!",
+      "winMessage": "<:gw:795249081215746058> Congratulations, {winners}! You won **{prize}**!",
+      "embedFooter": "Giveaways",
+      "noWinner": "Could not determine a winner!",
+      "winners": "winner(s)",
+      "endedAt": "Ended at",
+      "hostedBy": "Hosted by: {user}",
+      "units": {
+        "seconds": "seconds",
+        "minutes": "minutes",
+        "hours": "hours",
+        "days": "days",
+        "pluralS": false,
+        "weeks": "weeks"
+      }
+    },
+    "hostedBy": "<@760421959556792320>",
+    "winnerIDs": [
+      "760421959556792320"
+    ]
+  },
+  {
+    "messageID": "795265210272317471",
+    "channelID": "795264247410982912",
+    "guildID": "794306226720210974",
+    "startAt": 1609676400832,
+    "endAt": 1609676738236,
+    "ended": true,
+    "winnerCount": "1",
+    "winners": [
+      "760421959556792320"
+    ],
+    "prize": "Nitro Classic",
+    "messages": {
+      "giveaway": "<:gw:795249081215746058> **GIVEAWAY** <:gw:795249081215746058>",
+      "giveawayEnded": "<:gw:795249081215746058> **GIVEAWAY ENDED** <:gw:795249081215746058>",
+      "inviteToParticipate": "React with 🎉 to enter!",
+      "timeRemaining": "Time remaining: **{duration}**!",
+      "winMessage": "<:gw:795249081215746058> Congratulations, {winners}! You won **{prize}**!",
+      "embedFooter": "Giveaways",
+      "noWinner": "Could not determine a winner!",
+      "winners": "winner(s)",
+      "endedAt": "Ended at",
+      "hostedBy": "Hosted by: {user}",
+      "units": {
+        "seconds": "seconds",
+        "minutes": "minutes",
+        "hours": "hours",
+        "days": "days",
+        "pluralS": false,
+        "weeks": "weeks"
+      }
+    },
+    "hostedBy": "<@760421959556792320>",
+    "winnerIDs": [
+      "760421959556792320"
+    ]
+  },
+  {
+    "messageID": "795271092997980160",
+    "channelID": "795267341302366218",
+    "guildID": "794306226720210974",
+    "startAt": 1609677803934,
+    "endAt": 1609677827401,
+    "ended": true,
+    "winnerCount": "1",
+    "winners": [
+      "760421959556792320"
+    ],
+    "prize": "OA",
+    "messages": {
+      "giveaway": "<:gw:795249081215746058> **GIVEAWAY** <:gw:795249081215746058>",
+      "giveawayEnded": "<:gw:795249081215746058> **GIVEAWAY ENDED** <:gw:795249081215746058>",
+      "inviteToParticipate": "React with 🎉 to enter!",
+      "timeRemaining": "Time remaining: **{duration}**!",
+      "winMessage": "<:gw:795249081215746058> Congratulations, {winners}! You won **{prize}**!",
+      "embedFooter": "Giveaways",
+      "noWinner": "Could not determine a winner!",
+      "winners": "winner(s)",
+      "endedAt": "Ended at",
+      "hostedBy": "Hosted by: {user}",
+      "units": {
+        "seconds": "seconds",
+        "minutes": "minutes",
+        "hours": "hours",
+        "days": "days",
+        "pluralS": false,
+        "weeks": "weeks"
+      }
+    },
+    "hostedBy": "<@450602209617379340>",
+    "winnerIDs": [
+      "760421959556792320"
+    ]
+  },
+  {
+    "messageID": "795357394716065864",
+    "channelID": "795296837582061598",
+    "guildID": "794306226720210974",
+    "startAt": 1609698379844,
+    "endAt": 1609704379844,
+    "ended": true,
+    "winnerCount": "1",
+    "winners": [
+      "450602209617379340"
+    ],
+    "prize": "nude",
+    "messages": {
+      "giveaway": "<:gw:795249081215746058> **GIVEAWAY** <:gw:795249081215746058>",
+      "giveawayEnded": "<:gw:795249081215746058> **GIVEAWAY ENDED** <:gw:795249081215746058>",
+      "inviteToParticipate": "React with 🎉 to enter!",
+      "timeRemaining": "Time remaining: **{duration}**!",
+      "winMessage": "<:gw:795249081215746058> Congratulations, {winners}! You won **{prize}**!",
+      "embedFooter": "Giveaways",
+      "noWinner": "Could not determine a winner!",
+      "winners": "winner(s)",
+      "endedAt": "Ended at",
+      "hostedBy": "Hosted by: {user}",
+      "units": {
+        "seconds": "seconds",
+        "minutes": "minutes",
+        "hours": "hours",
+        "days": "days",
+        "pluralS": false,
+        "weeks": "weeks"
+      }
+    },
+    "hostedBy": "<@760421959556792320>",
+    "winnerIDs": [
+      "450602209617379340"
+    ]
+  },
+  {
+    "messageID": "795357678602944572",
+    "channelID": "795296837582061598",
+    "guildID": "794306226720210974",
+    "startAt": 1609698447441,
+    "endAt": 1609699047441,
+    "ended": true,
+    "winnerCount": "1",
+    "winners": [
+      "760421959556792320"
+    ],
+    "prize": "Alinin memesi",
+    "messages": {
+      "giveaway": "<:gw:795249081215746058> **GIVEAWAY** <:gw:795249081215746058>",
+      "giveawayEnded": "<:gw:795249081215746058> **GIVEAWAY ENDED** <:gw:795249081215746058>",
+      "inviteToParticipate": "React with 🎉 to enter!",
+      "timeRemaining": "Time remaining: **{duration}**!",
+      "winMessage": "<:gw:795249081215746058> Congratulations, {winners}! You won **{prize}**!",
+      "embedFooter": "Giveaways",
+      "noWinner": "Could not determine a winner!",
+      "winners": "winner(s)",
+      "endedAt": "Ended at",
+      "hostedBy": "Hosted by: {user}",
+      "units": {
+        "seconds": "seconds",
+        "minutes": "minutes",
+        "hours": "hours",
+        "days": "days",
+        "pluralS": false,
+        "weeks": "weeks"
+      }
+    },
+    "hostedBy": "<@450602209617379340>",
+    "winnerIDs": [
+      "760421959556792320"
+    ]
+  },
+  {
+    "messageID": "795384800088948748",
+    "channelID": "795296837582061598",
+    "guildID": "794306226720210974",
+    "startAt": 1609704913730,
+    "endAt": 1609791313730,
+    "ended": false,
+    "winnerCount": "5",
+    "winners": [],
+    "prize": "Alinin ßüyük Memeleri",
+    "messages": {
+      "giveaway": "<:gw:795249081215746058> **GIVEAWAY** <:gw:795249081215746058>",
+      "giveawayEnded": "<:gw:795249081215746058> **GIVEAWAY ENDED** <:gw:795249081215746058>",
+      "inviteToParticipate": "React with 🎉 to enter!",
+      "timeRemaining": "Time remaining: **{duration}**!",
+      "winMessage": "<:gw:795249081215746058> Congratulations, {winners}! You won **{prize}**!",
+      "embedFooter": "Giveaways",
+      "noWinner": "Could not determine a winner!",
+      "winners": "winner(s)",
+      "endedAt": "Ended at",
+      "hostedBy": "Hosted by: {user}",
+      "units": {
+        "seconds": "seconds",
+        "minutes": "minutes",
+        "hours": "hours",
+        "days": "days",
+        "pluralS": false,
+        "weeks": "weeks"
+      }
+    },
+    "hostedBy": "<@450602209617379340>",
+    "winnerIDs": []
+  },
+  {
+    "messageID": "799199794039750677",
+    "channelID": "799178465601126400",
+    "guildID": "794553503175409695",
+    "startAt": 1610614479254,
+    "endAt": 1610614540197,
+    "ended": true,
+    "winnerCount": "1",
+    "winners": [],
+    "prize": "nitro",
+    "messages": {
+      "giveaway": ":tada: **ÇEKİLİŞ BAŞLADI** :tada:",
+      "giveawayEnded": ":tada: **ÇEKİLİŞ BİTTİ** :tada:",
+      "inviteToParticipate": "Katılmak için 🎉 emojisine bas!",
+      "timeRemaining": "Kalan süre: **{duration}**!",
+      "winMessage": "» Tebrikler, {winners}! **{prize}** ödülünü kazandınız!",
+      "embedFooter": "",
+      "noWinner": "Yetersiz katılım!",
+      "winners": "kazanan(lar)",
+      "endedAt": "Bitiş",
+      "hostedBy": "Başlatan: {user}",
+      "units": {
+        "seconds": "saniye",
+        "minutes": "dakika",
+        "hours": "saat",
+        "days": "gün",
+        "pluralS": false,
+        "weeks": "hafta"
+      }
+    },
+    "hostedBy": "<@760421959556792320>",
+    "winnerIDs": []
+  },
+  {
+    "messageID": "799203645149151242",
+    "channelID": "799178465601126400",
+    "guildID": "794553503175409695",
+    "startAt": 1610615397392,
+    "endAt": 1610615413730,
+    "ended": true,
+    "winnerCount": "1",
+    "winners": [
+      "760421959556792320"
+    ],
+    "prize": "nitro",
+    "messages": {
+      "giveaway": ":tada: **ÇEKİLİŞ BAŞLADI** :tada:",
+      "giveawayEnded": ":tada: **ÇEKİLİŞ BİTTİ** :tada:",
+      "inviteToParticipate": "Katılmak için 🎉 emojisine bas!",
+      "timeRemaining": "Kalan süre: **{duration}**!",
+      "winMessage": "» Tebrikler, {winners}! **{prize}** ödülünü kazandınız!",
+      "embedFooter": "",
+      "noWinner": "Yetersiz katılım!",
+      "winners": "kazanan(lar)",
+      "endedAt": "Bitiş",
+      "hostedBy": "Başlatan: {user}",
+      "units": {
+        "seconds": "saniye",
+        "minutes": "dakika",
+        "hours": "saat",
+        "days": "gün",
+        "pluralS": false,
+        "weeks": "hafta"
+      }
+    },
+    "hostedBy": "<@760421959556792320>",
+    "winnerIDs": [
+      "760421959556792320"
+    ]
+  },
+  {
+    "messageID": "799203819451973654",
+    "channelID": "799178465601126400",
+    "guildID": "794553503175409695",
+    "startAt": 1610615438974,
+    "endAt": 1610615452444,
+    "ended": true,
+    "winnerCount": "1",
+    "winners": [
+      "760421959556792320"
+    ],
+    "prize": "nitro classic",
+    "messages": {
+      "giveaway": ":tada: **ÇEKİLİŞ BAŞLADI** :tada:",
+      "giveawayEnded": ":tada: **ÇEKİLİŞ BİTTİ** :tada:",
+      "inviteToParticipate": "Katılmak için 🎉 emojisine bas!",
+      "timeRemaining": "Kalan süre: **{duration}**!",
+      "winMessage": "» Tebrikler, {winners}! **{prize}** ödülünü kazandınız!",
+      "embedFooter": "",
+      "noWinner": "Yetersiz katılım!",
+      "winners": "kazanan(lar)",
+      "endedAt": "Bitiş",
+      "hostedBy": "Başlatan: {user}",
+      "units": {
+        "seconds": "saniye",
+        "minutes": "dakika",
+        "hours": "saat",
+        "days": "gün",
+        "pluralS": false,
+        "weeks": "hafta"
+      }
+    },
+    "hostedBy": "<@760421959556792320>",
+    "winnerIDs": [
+      "760421959556792320"
+    ]
+  },
+  {
+    "messageID": "799211992979210251",
+    "channelID": "799178465601126400",
+    "guildID": "794553503175409695",
+    "startAt": 1610617387699,
+    "endAt": 1610617987699,
+    "ended": false,
+    "winnerCount": "1",
+    "winners": [],
+    "prize": "nitro",
+    "messages": {
+      "giveaway": ":tada: **ÇEKİLİŞ BAŞLADI** :tada:",
+      "giveawayEnded": ":tada: **ÇEKİLİŞ BİTTİ** :tada:",
+      "inviteToParticipate": "Katılmak için 🎉 emojisine bas!",
+      "timeRemaining": "Kalan süre: **{duration}**!",
+      "winMessage": "» Tebrikler, {winners}! **{prize}** ödülünü kazandınız!",
+      "embedFooter": "",
+      "noWinner": "Yetersiz katılım!",
+      "winners": "kazanan(lar)",
+      "endedAt": "Bitiş",
+      "hostedBy": "Başlatan: {user}",
+      "units": {
+        "seconds": "saniye",
+        "minutes": "dakika",
+        "hours": "saat",
+        "days": "gün",
+        "pluralS": false,
+        "weeks": "hafta"
+      }
+    },
+    "hostedBy": "<@760421959556792320>",
+    "winnerIDs": []
+  }
+]
