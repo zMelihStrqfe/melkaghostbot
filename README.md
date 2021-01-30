@@ -4,8 +4,6 @@
   
   - Şu anlık toplam **51** komut vardır!
   
-  - **Part 2** versiyonu **100** komut olunca çıkacaktır!
-  
 ## Hizmet koşulları ve şartlarını kabul edersiniz, projeyi indirince!
   
   - Öncelikle anlatayım,
