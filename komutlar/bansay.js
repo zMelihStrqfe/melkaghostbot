@@ -26,7 +26,7 @@ exports.run = async (client, message, args) => {
   ghost
     .fetchBans()
     .then(ghosT =>
-    message.channel.send(new Discord.MessageEmbed().setColor("RED").setDescription(`» Sunucunuzda **${ghosT.size}** banlanmış üye bulunmaktadır!`))
+    message.channel.send(new Discord.MessageEmbed().setColor("RED").setDescription(`» Sunucunuzda **${ghosT.size}** banlanmış üye bulunmaktadır!`)) //ghost development [ghost bot]
   )
     .catch(console.error);
 };
