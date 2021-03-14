@@ -5,7 +5,11 @@ const serverCooldown = new Set();
 
 exports.run = async (client, message, args) => {
   
-    if (!message.member.hasPermission("ADMINISTRATOR")) return message.channel.send(new Discord.MessageEmbed().setColor("RED").setDescription(`» Bu komutu kullanabilmek için \`Yönetici\` yetkisine ihtiyacın var!`));
+    if (!message.member.hasPermission("ADMINISTRATOR")) 
+      return message.channel.send(
+          new Discord.MessageEmbed()
+            .setColor("RED")
+            .setDescription(`» Bu komutu kullanabilmek için \`Yönetici\` yetkisine ihtiyacın var!`));
   
   let prefix = process.env.PREFIX;
 
@@ -26,21 +30,29 @@ exports.run = async (client, message, args) => {
   let tag = args[0];
   let tagg = db.fetch(`tag_${message.guild.id}`)
   
-  if (!tag) return message.channel.send(new Discord.MessageEmbed().setColor("RED").setDescription('» Bir tag girmelisin.'))
+  if (!tag) return message.channel.send(new Discord.MessageEmbed()
+                                        .setColor("RED")
+                                        .setDescription('» Bir tag girmelisin.'))
   
     if(args[0] === "sıfırla") {
     if(!tagg) {
-      message.channel.send(new Discord.MessageEmbed().setColor("RED").setDescription(`» Ayarlanmayan şeyi sıfırlayamazsın.`))
+      message.channel.send(new Discord.MessageEmbed()
+                           .setColor("RED")
+                           .setDescription(`» Ayarlanmayan şeyi sıfırlayamazsın.`))
       return
     }
     
     db.delete(`tag_${message.guild.id}`)
-    message.channel.send(new Discord.MessageEmbed().setColor("GREEN").setDescription(`» Tag başarıyla sıfırlandı.`))
+    message.channel.send(new Discord.MessageEmbed()
+                         .setColor("GREEN")
+                         .setDescription(`» Tag başarıyla sıfırlandı.`))
     return
   }
   
   db.set(`tag_${message.guild.id}`, tag)
-  message.channel.send(new Discord.MessageEmbed().setColor("GREEN").setDescription(`» Tag başarıyla \`${tag}\` olarak ayarlandı, sohbete sadece \`tag\` yazman yeterli.`))
+  message.channel.send(new Discord.MessageEmbed()
+                       .setColor("GREEN")
+                       .setDescription(`» Tag başarıyla \`${tag}\` olarak ayarlandı, sohbete sadece \`tag\` yazman yeterli.`))
    
 }
 
