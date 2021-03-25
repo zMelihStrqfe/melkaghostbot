@@ -1,3 +1,5 @@
+# EN SON SÜRÜM V4.0 OLARAK ÇIKTI VE DİSCORD ONAYLI BOTTUR!
+
 # Melka'nın Ghost Botu!
 
   - Öncelikle hoş geldin kullanıcı, bu botun **part 1** versiyonudur!
